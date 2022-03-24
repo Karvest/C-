@@ -1,0 +1,14 @@
+Z:\Kodiranje\C#\Class004\Class04Domasno\Domasno\bin\Debug\netcoreapp3.1\Domasno.exe
+Z:\Kodiranje\C#\Class004\Class04Domasno\Domasno\bin\Debug\netcoreapp3.1\Domasno.deps.json
+Z:\Kodiranje\C#\Class004\Class04Domasno\Domasno\bin\Debug\netcoreapp3.1\Domasno.runtimeconfig.json
+Z:\Kodiranje\C#\Class004\Class04Domasno\Domasno\bin\Debug\netcoreapp3.1\Domasno.runtimeconfig.dev.json
+Z:\Kodiranje\C#\Class004\Class04Domasno\Domasno\bin\Debug\netcoreapp3.1\Domasno.dll
+Z:\Kodiranje\C#\Class004\Class04Domasno\Domasno\bin\Debug\netcoreapp3.1\Domasno.pdb
+Z:\Kodiranje\C#\Class004\Class04Domasno\Domasno\obj\Debug\netcoreapp3.1\Domasno.csproj.AssemblyReference.cache
+Z:\Kodiranje\C#\Class004\Class04Domasno\Domasno\obj\Debug\netcoreapp3.1\Domasno.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Kodiranje\C#\Class004\Class04Domasno\Domasno\obj\Debug\netcoreapp3.1\Domasno.AssemblyInfoInputs.cache
+Z:\Kodiranje\C#\Class004\Class04Domasno\Domasno\obj\Debug\netcoreapp3.1\Domasno.AssemblyInfo.cs
+Z:\Kodiranje\C#\Class004\Class04Domasno\Domasno\obj\Debug\netcoreapp3.1\Domasno.csproj.CoreCompileInputs.cache
+Z:\Kodiranje\C#\Class004\Class04Domasno\Domasno\obj\Debug\netcoreapp3.1\Domasno.dll
+Z:\Kodiranje\C#\Class004\Class04Domasno\Domasno\obj\Debug\netcoreapp3.1\Domasno.pdb
+Z:\Kodiranje\C#\Class004\Class04Domasno\Domasno\obj\Debug\netcoreapp3.1\Domasno.genruntimeconfig.cache
